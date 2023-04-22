@@ -1,0 +1,22 @@
+# The following folders and files are ignored by source control.
+
+# Temporary file of Visual Studio Solution.
+# It stores opened files and the state of the Solution Explorer.
+/.vs
+/.vsconfig
+
+# Cache information generated when loading assets is stored.
+/DerivedDataCache/
+
+# Temporary files generated at build.
+/Intermediate/
+
+# Log files and editor configuration files.
+/Saved/
+
+# Project solution file.
+/cat_life.sln
+
+# Others.
+/Content/Collections/
+/Content/Developers/
