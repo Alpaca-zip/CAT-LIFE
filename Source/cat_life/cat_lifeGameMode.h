@@ -7,13 +7,9 @@
 #include "cat_lifeGameMode.generated.h"
 
 UCLASS(minimalapi)
-class Acat_lifeGameMode : public AGameModeBase
-{
-	GENERATED_BODY()
+class Acat_lifeGameMode : public AGameModeBase {
+  GENERATED_BODY()
 
 public:
-	Acat_lifeGameMode();
+  Acat_lifeGameMode();
 };
-
-
-
