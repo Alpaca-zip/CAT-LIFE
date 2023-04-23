@@ -5,6 +5,9 @@
 /.vs
 /.vsconfig
 
+# Platform DLL files generated at build.
+/Binaries/
+
 # Cache information generated when loading assets is stored.
 /DerivedDataCache/
 
