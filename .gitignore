@@ -17,6 +17,10 @@
 # Log files and editor configuration files.
 /Saved/
 
+# AFRICAN ANIMALS PACK
+# https://www.unrealengine.com/marketplace/ja/product/african-animals-pack?sessionInvalidated=true
+/Content/AfricanAnimalsPack/
+
 # Project solution file.
 /cat_life.sln
 
